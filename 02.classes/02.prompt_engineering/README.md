@@ -131,3 +131,7 @@ Escenarios de productividad donde aplicar prompts:
 - [Gemini prompting guide](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
 - [OpenAI cookbook](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
 - [OpenAI platform](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)
+
+---
+
+[⬅ Back to Course Home](../../README.md)

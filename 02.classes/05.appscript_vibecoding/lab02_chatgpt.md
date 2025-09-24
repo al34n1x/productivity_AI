@@ -20,7 +20,7 @@ Este ejercicio está diseñado para que explores cómo **ChatGPT** puede ayudart
 
 ### 1. Subir el Spreadsheet a ChatGPT
 - Ingresa a tu cuenta de ChatGPT.
-- Haz clic en el ícono **“+”** en el área de chat para **subir el documento demo** descargado o copiado en tu Drive.
+- Haz clic en el ícono **“+”** en el área de chat para **subir el documento demo** descargado o copiado en tu Drive.wez
 
 👉 Referencia: [Cómo subir archivos a ChatGPT](https://help.openai.com/en/articles/6825453)
 
